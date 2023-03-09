@@ -8,7 +8,7 @@
 - It can only play music on youtube
 - It is made for one's own use, commands from multiple channel or user can make error.
 
-2. Commands (Any prefix required)
+2. Commands (There is no prefix required.)
 - p https://www.youtube.com/_______
    : Play instantly music. After end of music, bot gets a related music url and play.
      Repeat until the user exits. This command can cancel the original order.
