@@ -1,0 +1,2 @@
+class Setups:
+    token = "token"
